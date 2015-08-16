@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lazy Markers</string>
+
+    <string name="google_maps_api_key">AIzaSyD5jJFkRAd2hVuZAZH81wUtw-vLsx7Y3jU</string>
+
+    <!-- MENU -->
+    <string name="filter_by_distance_title">By distance</string>
+    <string name="filter_by_country_name_title">By country name</string>
+    <!-- END MENU -->
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/FMMnvx/AndroidStudioProjects/LazyMarkers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.36/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7421dcb3ed9db47a59ec618e2398f0df65c2d480">
+        <dex dex="/Users/FMMnvx/AndroidStudioProjects/LazyMarkers/app/build/intermediates/pre-dexed/debug/classes-d75c1331475a09c818403845a524bf13bb41428a.jar" />
+    </item>
+
+</items>

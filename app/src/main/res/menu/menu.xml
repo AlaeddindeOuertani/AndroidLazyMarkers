@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_filter_by_distannce"
+        android:title="@string/filter_by_distance_title" />
+
+    <item
+        android:id="@+id/menu_filter_by_country_name"
+        android:title="@string/filter_by_country_name_title" />
+</menu>
